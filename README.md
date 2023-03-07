@@ -16,4 +16,6 @@
 
 😄 Pronouns: TRUJO, TRUJOVIDS, TRUJI
 
+⚡ CEO: TRUJO TECH
+
 ⚡ Fun fact:
