@@ -1,5 +1,7 @@
-### 👋 Hola, Yo soy Juan Jose Trujillo Cardozo
+# Hi! I'm Juan! 👋🏻
+Hola! my fullname is Juan Jose Trujillo Cardozo (TRUJO VIDS on Internet)
 
+I was born in 2001 and right now I'm living in Colombia.
 
 🔭 I’m currently working on my own proyects.
 
@@ -19,13 +21,6 @@
 
 🦆 Fun fact: I can do the voice of Donald Duck from disney 🤣
 
-
-
-
-# Hi! I'm Juan! 👋🏻
-Hola! my fullname is Juan Jose Trujillo Cardozo (TRUJO VIDS on Internet)
-
-I was born in 2001 and right now I'm living in Colombia.
 ## Official Education 👨🏻‍🎓
 2019-2014 | Ingenieria de Sistemas. Universidad Piloto de Colombia
 
