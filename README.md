@@ -1,6 +1,5 @@
-### Hi there 👋 Yo soy Juan Jose Trujillo Cardozo
+### 👋 Hola, Yo soy Juan Jose Trujillo Cardozo
 
-**juanjosetrujillocardozo/juanjosetrujillocardozo** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on my own proyects.
 
@@ -8,9 +7,9 @@
 
 👯 I’m looking to collaborate on Google, Microsoft, IBM.
 
-🤔 I’m looking for help with
+🤔 I’m looking for help with Javascript
 
-💬 Ask me about Hardware
+💬 Ask me about Hardware, and Systems Engineer
 
 📫 How to reach me: visit my social media links: https://linktr.ee/juanjosetrujillocardozo
 
@@ -18,4 +17,4 @@
 
 ⚡ CEO: TRUJO TECH
 
-⚡ Fun fact:
+🦆 Fun fact: I can do the voice of Donald Duck from disney 🤣
