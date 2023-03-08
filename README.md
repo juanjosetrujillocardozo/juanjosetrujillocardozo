@@ -18,3 +18,5 @@
 ⚡ CEO: TRUJO TECH
 
 🦆 Fun fact: I can do the voice of Donald Duck from disney 🤣
+
+![](https://github-readme-stats.vercel.app/api?username=fcoterroba)
