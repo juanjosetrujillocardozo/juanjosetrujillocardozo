@@ -9,7 +9,7 @@
 
 🤔 I’m looking for help with Javascript
 
-💬 Ask me about Hardware, and Systems Engineer
+💬 Ask me about Hardware and Systems Engineer
 
 📫 How to reach me: visit my social media links: https://linktr.ee/juanjosetrujillocardozo
 
