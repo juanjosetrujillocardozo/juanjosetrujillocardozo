@@ -37,5 +37,8 @@ I was born in 2001 and right now I'm living in Colombia.
 ![](https://github-readme-stats.vercel.app/api?username=juanjosetrujillocardozo)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosetrujillocardozo&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=juanjosetrujillocardozo&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
 ## Look at me! 👀
 <a href="https://juanjosetrujillocardozo.github.io/menu" target="_blank"><img src="https://img.shields.io/badge/https://juanjosetrujillocardozo.github.io/menu-https://juanjosetrujillocardozo.github.io/menu-white"></a>  <img src="https://img.shields.io/badge/juanjosetrujillocardozo%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/TRUJOVIDS%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/JuanJoTrujiCar%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  <img src="https://img.shields.io/badge/Juan Jose Trujillo Cardozo%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>  <img src="https://img.shields.io/badge/Juan Jose Trujillo Cardozo%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/-Juan Jose Trujillo Cardozo-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
