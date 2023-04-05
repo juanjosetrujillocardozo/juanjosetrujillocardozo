@@ -44,3 +44,13 @@ I was born in 2001 and right now I'm living in Colombia.
 
 ## Look at me! 👀
 <a href="https://juanjosetrujillocardozo.github.io/menu" target="_blank"><img src="https://img.shields.io/badge/https://juanjosetrujillocardozo.github.io/menu-https://juanjosetrujillocardozo.github.io/menu-white"></a>  <img src="https://img.shields.io/badge/juanjosetrujillocardozo%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/TRUJOVIDS%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/JuanJoTrujiCar%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  <img src="https://img.shields.io/badge/Juan Jose Trujillo Cardozo%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>  <img src="https://img.shields.io/badge/Juan Jose Trujillo Cardozo%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/-Juan Jose Trujillo Cardozo-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
