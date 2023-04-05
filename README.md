@@ -18,7 +18,7 @@ I was born in 2001 and right now I'm living in Colombia.
 
 😄 Pronouns: TRUJO, TRUJOVIDS, TRUJI
 
-⚡ CEO: TRUJO TECH
+⚡ CEO: TRUJO TECHNOLOGIES
 
 🦆 Fun fact: I can do the voice of Donald Duck from disney 🤣
 
