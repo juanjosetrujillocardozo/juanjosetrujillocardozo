@@ -1,5 +1,8 @@
 # Hi! I'm Juan! 👋🏻
 
+  <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
 Hola! my fullname is Juan Jose Trujillo Cardozo (TRUJO VIDS on Internet)
 
 I was born in 2001 and right now I'm living in Colombia.
