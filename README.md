@@ -1,7 +1,6 @@
 # Hi! I'm Juan! 👋🏻
 
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+  <img align="right" alt="Coding" width="400" src="https://c.tenor.com/1mwdqr51emcAAAAC/tenor.gif">
 
 Hola! my fullname is Juan Jose Trujillo Cardozo (TRUJO VIDS on Internet)
 
