@@ -60,5 +60,5 @@ I was born in 2001 and right now I'm living in Colombia.
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanjosetrujillocardozo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juanjosetrujillocardozo)](https://git.io/streak-stats)
 
