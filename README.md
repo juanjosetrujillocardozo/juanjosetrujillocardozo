@@ -8,11 +8,11 @@ I was born in 2001 and right now I'm living in Colombia.
 
 🔭 I’m currently working on my own proyects.
 
-🌱 I’m currently learning about HTML, CSS, Javascript and Java.
+🌱 I’m currently learning about React and Java.
 
 👯 I’m looking to collaborate on Google, Microsoft, IBM.
 
-🤔 I’m looking for help with Javascript
+<!--![]🤔 I’m looking for help with Javascript -->![]
 
 💬 Ask me about Hardware and Systems Engineer
 
