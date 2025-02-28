@@ -12,7 +12,7 @@ I was born in 2001 and right now I'm living in Colombia.
 
 👯 I’m looking to collaborate on Google, Microsoft, IBM.
 
-<!--![]🤔 I’m looking for help with Javascript -->![]
+<!--![]🤔 I’m looking for help with Javascript -->
 
 💬 Ask me about Hardware and Systems Engineer
 
