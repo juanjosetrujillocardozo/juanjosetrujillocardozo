@@ -42,9 +42,9 @@ I was born in 2001 and right now I'm living in Colombia.
 
 [![](https://visitcount.itsvg.in/api?id=juanjosetrujillocardozo&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-[![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=niplimmf0zusd1z6t9q5lx58c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=niplimmf0zusd1z6t9q5lx58c&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=niplimmf0zusd1z6t9q5lx58c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=niplimmf0zusd1z6t9q5lx58c&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
 
-[![](https://spotify-recently-played-readme.vercel.app/api?user=niplimmf0zusd1z6t9q5lx58c&unique={true|1|on|yes})
+![](https://spotify-recently-played-readme.vercel.app/api?user=niplimmf0zusd1z6t9q5lx58c&unique={true|1|on|yes})
 
 ## Look at me! 👀
 <a href="https://juanjosetrujillocardozo.github.io/menu" target="_blank"><img src="https://img.shields.io/badge/https://juanjosetrujillocardozo.github.io/menu-https://juanjosetrujillocardozo.github.io/menu-white"></a>  <img src="https://img.shields.io/badge/juanjosetrujillocardozo%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/TRUJOVIDS%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/JuanJoTrujiCar%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  <img src="https://img.shields.io/badge/Juan Jose Trujillo Cardozo%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>  <img src="https://img.shields.io/badge/Juan Jose Trujillo Cardozo%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/-Juan Jose Trujillo Cardozo-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
