@@ -1,36 +1,62 @@
-# Juan Jose Trujillo Cardozo 🇨🇴
-### Software Engineer | Data Quality & Business Rules Specialist
+<h1 align="center">Juan José Trujillo Cardozo</h1>
 
-I build high-impact software solutions that bridge the gap between **Modern Web Development** and **Large-Scale Data Integrity**. Currently focused on banking-grade data ecosystems and scalable backend architectures.
+<p align="center">
+  <b>Software Engineer · Founder @ <a href="https://github.com/TRUJO-TECHNOLOGIES">TRUJO TECHNOLOGIES S.A.S.</a></b><br/>
+  Data Governance Analyst @ Inetum (cliente BBVA Riesgos) · Bogotá, Colombia 🇨🇴
+</p>
+
+<p align="center">
+  <a href="https://trujotechnologies.com"><img src="https://img.shields.io/badge/web-trujotechnologies.com-22d3ee?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/juanjosetrujillocardozo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:juanjosetrujillocardozo@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/English-C2-10b981?style=flat-square">
+</p>
 
 ---
 
-### 🔭 Current Focus
-- **Data Quality @ Inetum (BBVA Client):** Automating business rules validation using AWS (Athena, SageMaker) and Spark/Python.
-- **Fullstack Development:** Building scalable platforms with React, FastAPI, and Docker.
-- **Cloud Architecture:** Deploying resilient systems on AWS, Azure, and GCP.
+### Lo que hago
 
-### 🛠️ Technical Toolbox
+Construyo infraestructura técnica que empresas colombianas usan en producción. En paralelo: data governance bancario en Inetum/BBVA Riesgos.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Cloud/DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Frente | Detalle |
+|---|---|
+| **TRUJO TECHNOLOGIES S.A.S.** | NIT 902.025.831-4 · DUNS 474562831 · Constituida 16-ene-2026. PyMEs reguladas: biométrico, bots WhatsApp con IA, POS, facturación DIAN, monitoreo SaaS multi-tenant. |
+| **Inetum — BBVA Riesgos Launchpad** | Data Governance Analyst. PySpark + AWS EMR + SageMaker. Aperturas Originaciones, cluster bancario controlado. |
+| **Open-source** | [Data Quality Engine Core](https://github.com/juanjosetrujillocardozo/Data-Quality-Engine-Core) — motor Python de reglas de negocio para integridad de datos. |
 
-### 🚀 Featured Projects
-- **[Data Quality Engine Core](https://github.com/juanjosetrujillocardozo/Data-Quality-Engine-Core):** A professional engine for business rules validation and data integrity.
-- **[Ourasound](https://juanjosetrujillocardozo.github.io/portfolio):** Fullstack platform for the music industry (React/FastAPI).
-- **[TRUJO TECHNOLOGIES](https://juanjosetrujillocardozo.github.io/menu/):** My personal tech consultancy and freelance hub.
+### Stack en producción
 
-### 📊 GitHub Stats
-![Juan Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjosetrujillocardozo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosetrujillocardozo&layout=compact&theme=radical)
+```text
+Backend     · FastAPI (Py 3.12) · Postgres 16 · Redis 7 · multi-tenant
+Frontend    · Next.js 14 (App Router) · TypeScript · Tailwind · Astro
+DevOps      · Docker Compose · Nginx Proxy Manager · Authelia · Cloudflare
+Data        · PySpark · AWS EMR · SageMaker · Athena
+AI          · Anthropic Claude · Ollama (Llama 3.2) · LiteLLM gateway
+Mobile/Win  · C# WinForms .NET 4.8 (biométrico) · Flutter (POS companion)
+```
 
-### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/juanjosetrujillocardozo](https://www.linkedin.com/in/juanjosetrujillocardozo)
-- **Portfolio:** [juanjosetrujillocardozo.github.io/portfolio](https://juanjosetrujillocardozo.github.io/portfolio)
-- **Email:** [juanjosetrujillocardozo@gmail.com](mailto:juanjosetrujillocardozo@gmail.com)
+### En producción hoy
 
-*"Building purpose-driven technology from Colombia to the world."*
+- 🌐 **[trujotechnologies.com](https://trujotechnologies.com)** — sitio comercial TRUJO TECHNOLOGIES (Next.js)
+- 📊 **[dashboard.trujotechnologies.com](https://dashboard.trujotechnologies.com)** — operaciones multi-tenant (Next.js 14)
+- 🛡 **Sistema Biométrico** — C# + DigitalPersona U.are.U. Desplegado en sedes Casino Policía Nacional (Espinal + Fusagasugá), 200+ heartbeats/sem
+- 💳 **[pay.trujotechnologies.com](https://pay.trujotechnologies.com)** — portal pagos internos
+- 🤖 Bots WhatsApp con IA — atención cliente para PyMEs alimentación (Loggro POS sync)
+
+### Formación
+
+- **Ingeniería de Sistemas** · Universidad Piloto de Colombia (2019–2024)
+- **Técnico en Sistemas** · SENA (2016–2018)
+- **Curso UI/UX Adobe XD** · EduGreen Training (2023)
+- **Edición Musical (Finale)** · UNAD (en curso)
+
+### Conectar
+
+- 🔗 Website personal: **[juan.trujotechnologies.com](https://juan.trujotechnologies.com)**
+- 💼 LinkedIn: [linkedin.com/in/juanjosetrujillocardozo](https://www.linkedin.com/in/juanjosetrujillocardozo)
+- 📧 Email: juanjosetrujillocardozo@gmail.com
+- 💬 WhatsApp comercial: [+57 317 294 6935](https://wa.me/573172946935)
+
+---
+
+<p align="center"><i>Building purpose-driven technology from Colombia to the world.</i></p>
