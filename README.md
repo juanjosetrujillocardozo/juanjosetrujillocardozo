@@ -48,7 +48,6 @@ Mobile/Win  · C# WinForms .NET 4.8 (biométrico) · Flutter (POS companion)
 - **Ingeniería de Sistemas** · Universidad Piloto de Colombia (2019–2024)
 - **Técnico en Sistemas** · SENA (2016–2018)
 - **Curso UI/UX Adobe XD** · EduGreen Training (2023)
-- **Edición Musical (Finale)** · UNAD (en curso)
 
 ### Conectar
 
